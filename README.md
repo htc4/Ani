@@ -1,6 +1,8 @@
 # Lorem Ipsum
 ## General Page
 <img src="./image/nkar1.jpg" width="300">
+![alt text](<./image/nkar1.jpg>)
+
 Is the main page through which we can register, view the assorment, place an order
 ## Search page
 <img src="./image/nkar2.jpg" width="300">
