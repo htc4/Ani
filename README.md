@@ -1,7 +1,7 @@
 # Lorem Ipsum
 ## General Page
 <img src="./image/nkar1.jpg" width="300">
-![alt text](<./image/nkar1.jpg>)
+![alt text](<https://github.com/htc4/Ani/blob/landing_page/image/nkar1.png>)
 
 Is the main page through which we can register, view the assorment, place an order
 ## Search page
