@@ -4,7 +4,7 @@
 
 Is the main page through which we can register, view the assorment, place an order
 ## Search page
-<img src="./image/nkar2.jpg" width="300">
+![alt text](<https://github.com/htc4/Ani/blob/landing_page/image/nkar2.png>)
 intended for search
 ## Home page
 <img src="./image/nkar3.jpg" width="300">
