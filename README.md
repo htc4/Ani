@@ -1,17 +1,1 @@
-# Lorem Ipsum
-## General Page
-![alt text](<https://github.com/htc4/Ani/blob/landing_page/image/nkar1.png>)
 
-Is the main page through which we can register, view the assorment, place an order
-## Search page
-![alt text](<https://github.com/htc4/Ani/blob/landing_page/image/nkar2.png>)
-intended for search
-## Home page
-<img src="./image/nkar3.jpg" width="300">
-Here are the 3 best selling drugs of the month
-## More page
-<img src="./image/nkar4.jpg" width="300">
-range is presented
-## Login page
-<img src="./image/nkar6.jpg" width="300">
-sign up page
